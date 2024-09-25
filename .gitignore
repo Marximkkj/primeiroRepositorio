@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 listaBemBagual.txt
+bagual2.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
